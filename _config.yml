@@ -2,6 +2,9 @@
 url: http://bizarreisbeautiful.com
 baseurl: ''
 
+#for github pages
+remote_theme: excentris/compass
+
 # compass configuration
 compass:
   # an avatar or logo (optional)
